@@ -143,21 +143,6 @@ A atualização efetiva da página pode ser realizada por uma extensão de atual
 - testes automatizados;
 - múltiplas regiões monitoradas.
 
-## Segurança e privacidade
-
-Nunca publique em um repositório público:
-
-- credenciais;
-- tokens;
-- cookies;
-- URLs internas;
-- dados pessoais;
-- nomes de clientes;
-- chamados ou identificadores internos;
-- prints com informações corporativas.
-
-Para demonstrações, utilize dados fictícios ou imagens anonimizadas.
-
 ## Autor
 
 **Lucas Mattos**
